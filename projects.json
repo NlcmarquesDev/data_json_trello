@@ -2,7 +2,7 @@
   "name": "Projects",
   "data": [
     {
-        "title": "In papper",
+      "title": "In papper",
       "data": [
         {
           "title": "Clone Netflix",
@@ -27,20 +27,20 @@
             {
               "title": "Mongo DB",
               "check": false
-            }
+            },
             {
               "title": "Sass ",
               "check": false
             }
           ]
-        }
+        },
         {
           "title": "Find a Job",
           "extra": [
             {
               "title": "Send CV",
               "check": false
-            },
+            }
           ]
         }
       ]
@@ -54,7 +54,7 @@
             {
               "title": "Full course",
               "check": false
-            },
+            }
           ]
         },
         {
