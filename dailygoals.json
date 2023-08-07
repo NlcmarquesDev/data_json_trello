@@ -6,16 +6,29 @@
       "data": [
         {
           "title": "Exercise",
-          "extra": ["Go for a 30-minute jog in the morning."]
+          "extra": [
+            {
+              "title": "Go for a 30-minute jog in the morning.",
+              "check": true
+            }
+          ]
         },
         {
           "title": "Read",
-          "extra": ["Read at least 20 pages of a book."]
+          "extra": [
+            {
+              "title": "Read at least 20 pages of a book.",
+              "check": true
+            }
+          ]
         },
         {
           "title": "Learn",
           "extra": [
-            "Spend 1 hour learning something new or studying a topic of interest."
+            {
+              "title": "Spend 1 hour learning something new or studying a topic of interest.",
+              "check": true
+            }
           ]
         }
       ]
@@ -44,12 +57,11 @@
         {
           "title": "Create",
           "extra": [
-            "Work on a personal creative project for at least 45 minutes."
+            {
+              "title": "Work on a personal creative project for at least 45 minutes.",
+              "check": true
+            }
           ]
-        },
-        {
-          "title": "Doen wat er te doen valt (voormiddag)",
-          "extra": []
         }
       ]
     }

@@ -2,30 +2,26 @@
   "name": "Sports",
   "data": [
     {
-      "title": "Still in the bucket",
+      "title": "Dream to do it",
       "data": [
         {
           "title": "Sky-diven",
           "extra": [
             {
-              "title": "Growing a pair",
-              "check": false
-            },
-            {
-              "title": "Nie doodgaan",
+              "title": "Before 45",
               "check": false
             }
           ]
         },
         {
-          "title": "Wereldreis",
+          "title": "Tournment of Padel",
           "extra": [
             {
-              "title": "Genoeg aan de kant zetten",
+              "title": "Get a best partner for padel",
               "check": false
             },
             {
-              "title": "Het effectief doen",
+              "title": "Do 100 games ",
               "check": false
             }
           ]
@@ -36,18 +32,14 @@
       "title": "In Progress",
       "data": [
         {
-          "title": "Fullstack Developer worden",
+          "title": "Padel",
           "extra": [
             {
-              "title": "Inschrijven voor de opleiding",
+              "title": "Arrange partners",
               "check": true
             },
             {
-              "title": "Al de rest",
-              "check": false
-            },
-            {
-              "title": "Diploma halen",
+              "title": "Train 1x peer week",
               "check": false
             }
           ]
@@ -58,18 +50,10 @@
       "title": "Done",
       "data": [
         {
-          "title": "Grafisch ontwerper worden",
+          "title": "First Padel Game",
           "extra": [
             {
-              "title": "Inschrijven voor de opleiding",
-              "check": true
-            },
-            {
-              "title": "Al de rest",
-              "check": true
-            },
-            {
-              "title": "Diploma halen",
+              "title": "WIN!!!!",
               "check": true
             }
           ]

@@ -1,33 +1,46 @@
 {
-  "name": "Schoolwork",
+  "name": "projects",
   "data": [
     {
-      "title": "Backlog",
+        "title": "In papper",
       "data": [
         {
-          "title": "PHP",
+          "title": "Clone Netflix",
           "extra": [
             {
-              "title": "PHP OOP",
+              "title": "React",
               "check": false
             },
             {
-              "title": "Laravel (PHP Framework)",
+              "title": "Sass",
               "check": false
             }
           ]
         },
         {
-          "title": "Laravel",
+          "title": "Booking Padel",
           "extra": [
             {
-              "title": "livewire.js",
+              "title": "React.js",
               "check": false
             },
             {
-              "title": "alpine.js",
+              "title": "Mongo DB",
               "check": false
             }
+            {
+              "title": "Sass ",
+              "check": false
+            }
+          ]
+        }
+        {
+          "title": "Find a Job",
+          "extra": [
+            {
+              "title": "Send CV",
+              "check": false
+            },
           ]
         }
       ]
@@ -36,29 +49,12 @@
       "title": "Pending",
       "data": [
         {
-          "title": "Eindwerk",
+          "title": "Javascript/React Native",
           "extra": [
             {
-              "title": "Statische pagina's maken",
+              "title": "Full course",
               "check": false
             },
-            {
-              "title": "al de rest",
-              "check": false
-            }
-          ]
-        },
-        {
-          "title": "Stage gesprek",
-          "extra": [
-            {
-              "title": "Praten",
-              "check": true
-            },
-            {
-              "title": "Voorbeelden tonen",
-              "check": true
-            }
           ]
         },
         {
@@ -69,7 +65,7 @@
               "check": true
             },
             {
-              "title": "MariaDB",
+              "title": "Mongo DB",
               "check": false
             }
           ]
@@ -93,27 +89,14 @@
       "title": "Done",
       "data": [
         {
-          "title": "Stage aanvraag",
+          "title": "Porfolio",
           "extra": [
             {
-              "title": "Mails sturen",
+              "title": "Projects",
               "check": true
             },
             {
-              "title": "Hopen op antwoorden",
-              "check": true
-            },
-            {
-              "title": "Gesrpek inplannen",
-              "check": true
-            }
-          ]
-        },
-        {
-          "title": "Vue-basis leren",
-          "extra": [
-            {
-              "title": "Naar de les gaan",
+              "title": "Vue Course",
               "check": true
             }
           ]
