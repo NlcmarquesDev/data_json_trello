@@ -1,0 +1,80 @@
+{
+  "name": "Sports",
+  "data": [
+    {
+      "title": "Still in the bucket",
+      "data": [
+        {
+          "title": "Sky-diven",
+          "extra": [
+            {
+              "title": "Growing a pair",
+              "check": false
+            },
+            {
+              "title": "Nie doodgaan",
+              "check": false
+            }
+          ]
+        },
+        {
+          "title": "Wereldreis",
+          "extra": [
+            {
+              "title": "Genoeg aan de kant zetten",
+              "check": false
+            },
+            {
+              "title": "Het effectief doen",
+              "check": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "In Progress",
+      "data": [
+        {
+          "title": "Fullstack Developer worden",
+          "extra": [
+            {
+              "title": "Inschrijven voor de opleiding",
+              "check": true
+            },
+            {
+              "title": "Al de rest",
+              "check": false
+            },
+            {
+              "title": "Diploma halen",
+              "check": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Done",
+      "data": [
+        {
+          "title": "Grafisch ontwerper worden",
+          "extra": [
+            {
+              "title": "Inschrijven voor de opleiding",
+              "check": true
+            },
+            {
+              "title": "Al de rest",
+              "check": true
+            },
+            {
+              "title": "Diploma halen",
+              "check": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

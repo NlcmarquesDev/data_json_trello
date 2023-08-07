@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Schoolwork",
+    "name": "schoolwork",
+    "created": "25 oktober 2022",
+    "link": "https://my-json-server.typicode.com/MilanVandenbussche/mock-trello-db/schoolwork"
+  },
+  {
+    "title": "Daily Goals",
+    "name": "dailygoals",
+    "created": "23 oktober 1999",
+    "link": "https://my-json-server.typicode.com/MilanVandenbussche/mock-trello-db/dailygoals"
+  },
+  {
+    "title": "2023 Goals",
+    "name": "2023goals",
+    "created": "31 december 2022",
+    "link": "https://my-json-server.typicode.com/MilanVandenbussche/mock-trello-db/2023goals"
+  },
+  {
+    "title": "Bucketlist",
+    "name": "bucketlist",
+    "created": "18 februari 2016",
+    "link": "https://my-json-server.typicode.com/MilanVandenbussche/mock-trello-db/bucketlist"
+  }
+]

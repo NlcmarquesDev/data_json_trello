@@ -1,0 +1,57 @@
+{
+  "name": "Daily Goals",
+  "data": [
+    {
+      "title": "Backlog",
+      "data": [
+        {
+          "title": "Exercise",
+          "extra": ["Go for a 30-minute jog in the morning."]
+        },
+        {
+          "title": "Read",
+          "extra": ["Read at least 20 pages of a book."]
+        },
+        {
+          "title": "Learn",
+          "extra": [
+            "Spend 1 hour learning something new or studying a topic of interest."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "In Progress",
+      "data": [
+        {
+          "title": "Clean",
+          "extra": [
+            {
+              "title": "Whatever you do, don't stop doing this one",
+              "check": true
+            }
+          ]
+        },
+        {
+          "title": "Connect",
+          "extra": []
+        }
+      ]
+    },
+    {
+      "title": "Done",
+      "data": [
+        {
+          "title": "Create",
+          "extra": [
+            "Work on a personal creative project for at least 45 minutes."
+          ]
+        },
+        {
+          "title": "Doen wat er te doen valt (voormiddag)",
+          "extra": []
+        }
+      ]
+    }
+  ]
+}

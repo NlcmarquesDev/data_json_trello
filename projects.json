@@ -1,0 +1,124 @@
+{
+  "name": "Schoolwork",
+  "data": [
+    {
+      "title": "Backlog",
+      "data": [
+        {
+          "title": "PHP",
+          "extra": [
+            {
+              "title": "PHP OOP",
+              "check": false
+            },
+            {
+              "title": "Laravel (PHP Framework)",
+              "check": false
+            }
+          ]
+        },
+        {
+          "title": "Laravel",
+          "extra": [
+            {
+              "title": "livewire.js",
+              "check": false
+            },
+            {
+              "title": "alpine.js",
+              "check": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pending",
+      "data": [
+        {
+          "title": "Eindwerk",
+          "extra": [
+            {
+              "title": "Statische pagina's maken",
+              "check": false
+            },
+            {
+              "title": "al de rest",
+              "check": false
+            }
+          ]
+        },
+        {
+          "title": "Stage gesprek",
+          "extra": [
+            {
+              "title": "Praten",
+              "check": true
+            },
+            {
+              "title": "Voorbeelden tonen",
+              "check": true
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "extra": [
+            {
+              "title": "MySQL",
+              "check": true
+            },
+            {
+              "title": "MariaDB",
+              "check": false
+            }
+          ]
+        },
+        {
+          "title": "CSS Frameworks",
+          "extra": [
+            {
+              "title": "Bootstrap",
+              "check": true
+            },
+            {
+              "title": "Tailwind",
+              "check": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Done",
+      "data": [
+        {
+          "title": "Stage aanvraag",
+          "extra": [
+            {
+              "title": "Mails sturen",
+              "check": true
+            },
+            {
+              "title": "Hopen op antwoorden",
+              "check": true
+            },
+            {
+              "title": "Gesrpek inplannen",
+              "check": true
+            }
+          ]
+        },
+        {
+          "title": "Vue-basis leren",
+          "extra": [
+            {
+              "title": "Naar de les gaan",
+              "check": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
